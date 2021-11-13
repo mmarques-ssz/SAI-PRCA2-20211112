@@ -1,0 +1,7 @@
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211112\WFA_Geral\WFA_Geral\bin\Debug\WFA_Geral.exe
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211112\WFA_Geral\WFA_Geral\bin\Debug\WFA_Geral.pdb
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211112\WFA_Geral\WFA_Geral\obj\x86\Debug\WFA_Geral.Properties.Resources.resources
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211112\WFA_Geral\WFA_Geral\obj\x86\Debug\WFA_Geral.csproj.GenerateResource.Cache
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211112\WFA_Geral\WFA_Geral\obj\x86\Debug\WFA_Geral.exe
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211112\WFA_Geral\WFA_Geral\obj\x86\Debug\WFA_Geral.pdb
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211112\WFA_Geral\WFA_Geral\obj\x86\Debug\WFA_Geral.frmSoma.resources
